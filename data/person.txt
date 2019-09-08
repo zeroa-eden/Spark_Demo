@@ -1,0 +1,5 @@
+1 xiaoming 78
+2 huahua 23
+3 jiajia 34
+4 zhangzhang 90
+5 zizi 12
